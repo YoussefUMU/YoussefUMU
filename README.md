@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=YOUSSEF+BOUAOUIOUICH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=YOUSSEFUMU" alt="Typing SVG" />
   </h1>
 </div>
 
