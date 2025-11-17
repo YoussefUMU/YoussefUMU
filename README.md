@@ -1,32 +1,90 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hola!+Soy+Youssef+👋;Estudiante+de+Ingeniería+Informática;Programador+y+Desarrollador" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Youssef&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
-
-## 🚀 Sobre mí
-
-Estudiante de **Ingeniería Informática**.
-
-## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoussefUMU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefUMU&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hola!+Soy+Youssef;💻+Estudiante+de+Ingeniería+Informática;🚀+Desarrollador+%7C+Programador" alt="Typing SVG" />
 </div>
 
-## 🔥 Racha de Contribuciones
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefUMU&theme=tokyonight" alt="GitHub Streak" />
+  
+## 🛠️ **Stack Tecnológico**
+
+<img src="https://skillicons.dev/icons?i=cpp,java,c,assembly,git,github,linux,vscode&perline=8" />
+
 </div>
 
-## 🏆 Trofeos de GitHub
+<br>
+
+## 📈 **Estadísticas de GitHub**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YoussefUMU&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YoussefUMU&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefUMU&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 </div>
+
+<br>
+
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefUMU&custom_title=Gráfico%20de%20Contribuciones&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" />
+</div>
+
+<br>
+
+## 🏆 **Trofeos y Logros**
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=YoussefUMU&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
+</div>
+
+<br>
+
+## 📊 **Más Estadísticas**
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefUMU&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefUMU&theme=radical&utcOffset=1" />
+
+</div>
+
+<br>
+
+<div align="center">
+  
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoussefUMU&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoussefUMU&theme=radical" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefUMU&theme=radical" />
+
+</div>
+<br>
+
+## 📫 **Conecta Conmigo**
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-bouaouiouich-souidi-8b66ba35a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youssefumu@gmail.com)
+
+</div>
+
+<br>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YoussefUMU&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="profile views" />
+  
+### 👁️ **Visitas al Perfil**
+
+<img src="https://komarev.com/ghpvc/?username=YoussefUMU&color=00D9FF&style=for-the-badge&label=VISITAS" alt="profile views" />
+
+### ⭐ **Si te gusta mi trabajo, dale una estrella a mis repos!** ⭐
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
