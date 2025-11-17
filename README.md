@@ -1,9 +1,15 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Youssef&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Youssef&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&fontAlign=50&desc=Estudiante%20de%20Ingeniería%20Informática&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hola!+Soy+Youssef;💻+Estudiante+de+Ingeniería+Informática;🚀+Desarrollador+%7C+Programador" alt="Typing SVG" />
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=YOUSSEF+BOUAOUIOUICH" alt="Typing SVG" />
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=👋+Desarrollador+%7C+Programador;💻+Apasionado+por+el+Código;🚀+Siempre+Aprendiendo" alt="Typing SVG" />
 </div>
 
 <br>
@@ -12,7 +18,7 @@
   
 ## 🛠️ **Stack Tecnológico**
 
-<img src="https://skillicons.dev/icons?i=cpp,java,c,assembly,git,github,linux,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,java,c,git,github,linux,vscode&perline=8" />
 
 </div>
 
@@ -23,6 +29,18 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YoussefUMU&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefUMU&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+</div>
+
+<br>
+
+## 🐍 **Snake comiendo mis contribuciones**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoussefUMU/YoussefUMU/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YoussefUMU/YoussefUMU/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YoussefUMU/YoussefUMU/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
@@ -45,7 +63,7 @@
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=YoussefUMU&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussefUMU&theme=radical" />
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoussefUMU&theme=radical&utcOffset=1" />
 
@@ -60,6 +78,20 @@
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoussefUMU&theme=radical" />
 
 </div>
+
+<br>
+
+## 💻 **Lenguajes de Programación**
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+</div>
+
 <br>
 
 ## 📫 **Conecta Conmigo**
