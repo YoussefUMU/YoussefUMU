@@ -8,13 +8,6 @@
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=👋+Desarrollador+%7C+Programador;💻+Apasionado+por+el+Código;🚀+Siempre+Aprendiendo" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
   
 ## 🛠️ **Stack Tecnológico**
 
@@ -33,7 +26,7 @@
 
 <br>
 
-## 🐍 **Snake comiendo mis contribuciones**
+## 🐍 
 
 <div align="center">
   <picture>
