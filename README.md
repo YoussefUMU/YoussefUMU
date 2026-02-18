@@ -17,12 +17,6 @@
 
 <br>
 
-## 📈 **Estadísticas de GitHub**
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YoussefUMU&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefUMU&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-</div>
 
 <br>
 
@@ -43,12 +37,6 @@
 </div>
 
 <br>
-
-## 🏆 **Trofeos y Logros**
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=YoussefUMU&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
-</div>
 
 <br>
 
