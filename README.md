@@ -10,8 +10,12 @@
 
   
 ## 🛠️ **Stack Tecnológico**
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=cpp,java,c,git,r,github,linux,vscode,python,bash,django,latex,arduino,powershell,vim,docker&perline=20" />
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,java,c,git,github,linux,vscode,python&perline=8" />
 
 </div>
 
@@ -20,7 +24,7 @@
 
 <br>
 
-## 🐍 
+## 🐍 **Commits**
 
 <div align="center">
   <picture>
