@@ -11,7 +11,7 @@
   
 ## 🛠️ **Stack Tecnológico**
 
-<img src="https://skillicons.dev/icons?i=cpp,java,c,git,github,linux,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,java,c,git,github,linux,vscode,python&perline=8" />
 
 </div>
 
